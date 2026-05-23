@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "createdAt": "2026-03-05T11:28:58.190Z",
+  "docsDir": "C:\\Users\\PRODISTICS\\Documents\\Raganza\\raganza-web\\docs",
+  "totalDocs": 2,
+  "totalChunks": 1,
+  "avgLen": 19,
+  "df": {
+    "place": 1,
+    "source": 1,
+    "documents": 1,
+    "folder": 1,
+    "supported": 1,
+    "formats": 1,
+    "txt": 1,
+    "md": 1,
+    "pdf": 1,
+    "app": 1,
+    "go": 1,
+    "dashboard": 1,
+    "scan": 1,
+    "index": 1,
+    "now": 1
+  },
+  "chunks": [
+    {
+      "id": "README.md#0",
+      "docPath": "README.md",
+      "text": "Place your source documents in this folder.\n\nSupported formats:\n- `.txt`\n- `.md`\n- `.pdf`\n\nThen, in the app:\n- Go to **Dashboard** → **Scan & index now**, or\n- Go to **Documents** → **Scan & index**",
+      "tf": {
+        "place": 1,
+        "source": 1,
+        "documents": 2,
+        "folder": 1,
+        "supported": 1,
+        "formats": 1,
+        "txt": 1,
+        "md": 1,
+        "pdf": 1,
+        "app": 1,
+        "go": 2,
+        "dashboard": 1,
+        "scan": 2,
+        "index": 2,
+        "now": 1
+      },
+      "len": 19
+    }
+  ]
+}
